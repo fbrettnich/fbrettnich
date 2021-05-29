@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [fbrettnich.de](https://fbrettnich.de/)
 
-- 💬 Ask me about **Development, Linux/Windows Systems, Azure Cloud and Hostings**
+- 💬 Ask me about **Development, Linux/Windows Systems and Hostings**
 
 - 📫 How to reach me **github@fbrettnich.de**
 
@@ -31,8 +31,7 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+  <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fbrettnich&show_icons=true&locale=en&layout=compact" alt="fbrettnich" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fbrettnich&show_icons=true&locale=en" alt="fbrettnich" /></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=fbrettnich&label=Profile%20views&color=0ef152&style=flat-square" alt="fbrettnich" /></p>
+<p><img align="left" src="https://komarev.com/ghpvc/?username=fbrettnich&label=Profile%20views&color=0ef152&style=flat-square" alt="fbrettnich" /></p>
