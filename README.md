@@ -2,13 +2,10 @@
 <h3 align="center">A passionate backend developer and system administrator from Germany</h3>
 
 - 🔭 I’m currently working on [dbots.me](https://github.com/dbots-me/)
-
 - 👨‍💻 All of my projects are available at [fbrettnich.de](https://fbrettnich.de/)
-
+- 🌱 I’m currently learning PowerShell
 - 💬 Ask me about **Development, Linux/Windows Systems and Hostings**
-
 - 📫 How to reach me **github@fbrettnich.de**
-
 - ⚡ Fun fact **there is nothing better than pizza 🍕**
 
 
