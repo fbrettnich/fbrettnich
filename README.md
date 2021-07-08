@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felix</h1>
 <h3 align="center">A passionate backend developer and system administrator from Germany</h3>
 
-- 🔭 I’m currently working on [dbots.me](https://github.com/dbots-me/)
+- 🔭 I’m currently working on [uppify](https://github.com/uppify/)
 - 👨‍💻 All of my projects are available at [fbrettnich.de](https://fbrettnich.de/)
 - 🌱 I’m currently learning **PowerShell**
 - 💬 Ask me about **Development, Linux/Windows Systems and Hostings**
@@ -11,7 +11,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
